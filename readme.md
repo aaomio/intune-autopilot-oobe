@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents the manual Intune Autopilot enrollment process performed during Windows OOBE (Out-of-Box Experience) using Shift + F10.
+This repository documents the manual Intune Autopilot enrollment process performed during Windows OOBE (Out-of-Box Experience).
 
 It allows an IT technician to:
 - Capture device hardware identity
