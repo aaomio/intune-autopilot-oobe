@@ -5,9 +5,9 @@
 Plug in Ethernet cable during OOBE.
 
 WinPE detects network adapter  
-→ DHCP assigns IP address  
-→ DNS is configured  
-→ Internet becomes available  
+- DHCP assigns IP address  
+- DNS is configured  
+- Internet becomes available  
 
 ---
 
